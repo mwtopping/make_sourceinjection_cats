@@ -1,0 +1,1 @@
+python3 initialize_embed_subimages.py --fdir_generate_images ../generate_images --full_header /data/groups/comp-astro/jades/jades-data/GOODS-S/images/HST/HLF/v2.0.1/F814W/hlsp_hlf_hst_acs-30mas_goodss_f814w_v2.0.1_lessculled_sci.fits --bands F090W F115W F150W F200W F277W F335M F356W F410M F444W

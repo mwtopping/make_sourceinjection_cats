@@ -1,0 +1,1 @@
+python3 initialize_completeness.py
